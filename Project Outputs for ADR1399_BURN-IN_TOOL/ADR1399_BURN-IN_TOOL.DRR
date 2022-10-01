@@ -1,0 +1,21 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: ADR1399_BURN-IN_TOOL.PcbDoc   01.10.2022  7:22:12
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : ADR1399_BURN-IN_TOOL.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      16mil (0.4mm)                                             Round             55        PTH        18.28inch (464.22mm)
+T2      35mil (0.9mm)                                             Round             24        PTH        6.21inch (157.63mm)
+T3      39mil (1mm)                                               Round             24        PTH        15.27inch (387.97mm)
+T4      43mil (1.1mm)                                             Round             8         PTH        2.94inch (74.67mm)
+T5      51mil (1.3mm)                                             Round             4         PTH        1.30inch (33.00mm)
+T6      55mil (1.4mm)                                             Round             7         PTH        8.63inch (219.17mm)
+T7      59mil (1.5mm)                                             Round             6         PTH        3.73inch (94.74mm)
+T8      79mil (2mm)                                               Round             3         PTH        0.55inch (14.00mm)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              131
+
+Total Processing Time (hh:mm:ss) : 00:00:01

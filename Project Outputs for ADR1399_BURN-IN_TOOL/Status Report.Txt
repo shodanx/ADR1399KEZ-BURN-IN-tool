@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [ADR1399_BURN-IN_TOOL.PrjPcb]
+   Generated File[ADR1399_BURN-IN_TOOL.GTO]
+   Generated File[ADR1399_BURN-IN_TOOL.GTS]
+   Generated File[ADR1399_BURN-IN_TOOL.GTL]
+   Generated File[ADR1399_BURN-IN_TOOL.GBL]
+   Generated File[ADR1399_BURN-IN_TOOL.GBS]
+   Generated File[ADR1399_BURN-IN_TOOL.GBO]
+   Generated File[ADR1399_BURN-IN_TOOL.GKO]
+   Generated File[ADR1399_BURN-IN_TOOL.GD1]
+   Generated File[ADR1399_BURN-IN_TOOL.GG1]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 7:25:13 On 01.10.2022
